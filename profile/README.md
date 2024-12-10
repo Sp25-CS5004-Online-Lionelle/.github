@@ -24,6 +24,9 @@ In general, not including time spent interacting with videos, you should be prep
 
 Please plan ahead! It can be hard to estimate when you might get stuck, so make sure to have extra slack time in your schedule to accommodate tricky problems or new concepts that are harder than you except. Sometimes a problem comes along that you really need to sleep on. Finish your work as early as you can, so that when problems come up that require extra time, you have that time to spend. 
 
+### Synchronous Expectations?
+While the majority of the course is asynchronous, there is the expectation of the team meetings which will be synchronous among team members, and presentations where synchronous times will be arranged. We also reserve the right to request a synchronous meeting to go over material as needed if any concerns arise. For any synchronous meetings, you are expected to have a webcam. 
+
 
 ### Khoury Student Expectations
 
@@ -139,11 +142,11 @@ For much of what we do, even as face-to-face interactions become possible again,
 
 ### Academic Integrity and Scholarship
 
-Everybody is aware of vast amount of knowledge that is available on the Internet. While every assignment in this class is designed to be solvable using the methods we have discussed in class, your Professor recognizes that every student will end up using the Internet at some point or another. In general, web searches should be limited to how to small tasks in Python. As a student, your job is to be honest and forthright with your efforts. It is of utmost importance to your learning that you never just cut-and-paste a solution to a homework problem; instead make the effort to understand the solution well enough to put it into your own words and be sure to cite your sources. Citations should include references (paper, website, or other) for any site that you used to research a solution. Ideally, proper APA or ACM format should be used. For websites this includes name of website, title of the article, the url, and the date of retrieval. If you find yourself spending any significant amount of time searching the web, you should speak with a TA or the Instructor, because it is a sign that something is not working for you in this class. If you ever feel a need to "copy code" from a web site, please think again; any code snippet should by very short and prefaced by inline comments stating where it came from and giving credit to the actual author. 
+Everybody is aware of vast amount of knowledge that is available on the Internet. While every assignment in this class is designed to be solvable using the methods we have discussed in class, your Professor recognizes that every student will end up using the Internet at some point or another. As a student, your job is to be honest and forthright with your efforts. It is of utmost importance to your learning that you never just cut-and-paste a solution to a homework problem; instead make the effort to understand the solution well enough to put it into your own words and be sure to cite your sources. Citations should include references (paper, website, or other) for any site that you used to research a solution. Ideally, proper APA or ACM format should be used. For websites this includes name of website, title of the article, the url, and the date of retrieval. If you find yourself spending any significant amount of time searching the web, you should speak with a TA or the Instructor, because it is a sign that something is not working for you in this class. If you ever feel a need to "copy code" from a web site, please think again; any code snippet should by very short and prefaced by inline comments stating where it came from and giving credit to the actual author. 
 
 > It is better to read and understand the code, close your web browser, reconstruct the ideas from memory, and then write your own version. Even then, give credit to the original author for helping you think it through.
 
-You are expected to read, understand, and follow the University’s policies on Academic Integrity. With the exception of explicit, group projects, such as Pair Programming (which we will teach), each student is expected to do his or her own work. Violations of academic integrity will result in a **negative grade** on the corresponding assignment, along with harsher penalties for more widespread problems, including automatic failing of a course. 
+You are expected to read, understand, and follow the University’s policies on Academic Integrity. With the exception of explicit, group projects, such as Pair Programming (which we will teach), each student is expected to do his or her own work. Violations of academic integrity will result in a **negative grade** on the corresponding assignment, along with harsher penalties for more widespread problems, including automatic failing of a course. Academic integrity violations will be reported to OSCRR and the Khoury Academic Integrity Committee.
 
 Copying code is cheating and lacks integrity. CMU provides some nice examples to follow:
 
@@ -197,9 +200,18 @@ A few resources
 The university's academic integrity policy discusses actions regarded as violations and consequences for students [http://www.northeastern.edu/osccr/academic-integrity](http://www.northeastern.edu/osccr/academic-integrity).
 
 
+#### Generative AI (ChatGPT and Copilot)
+
+> [!CAUTION]
+> Generative AI is a powerful tool, it's use is allowed, but use
+> it wisely. See below for this course's policy, and not every course
+> has a different policy based on the learning goals.
+
+For this class, you are allowed the use of copilot or similar product for the use of small code snippets, building rote methods, and tests. You are not allowed to use it write your entire assignment, and you will find that it will often try to redesign against the expected design. As such, we only recommend its use to help you better understand and learn java syntax. If at any point we feel you are using generative AI to build your entire assignment or write your reports for you, this is considered plagiarism and will be treated as an academic integrity violation. Simply, it is a tool to facilitate your learning and efficiency in writing code. It should not be a substitute for understanding the concepts. 
+
 ### Disabilities; Reasonable Accommodations
 
-Our goal is to ensure that every student should be able to participate in this course. Students with disabilities who wish to receive academic services and/or accommodations should visit the [Disability Resource Center](https://drc.sites.northeastern.edu/) or call (844) 688-6287. If you have already done so, please provide your letter from the DRC to the instructor -- early in the semester -- to arrange for those accommodations. If you do require any special accommodations, let the instructor know immediately so that appropriate details can be worked out.
+Our goal is to ensure that every student should be able to participate in this course. Students with disabilities who wish to receive academic services and/or accommodations should visit the  [Disability Access Services](https://disabilityaccessservices.sites.northeastern.edu/) (DAS) (previously known as DRS) or call (844) 688-6287. If you have already done so, please provide your letter from the DAS to the instructor -- early in the semester -- to arrange for those accommodations. If you do require any special accommodations, let the instructor know immediately so that appropriate details can be worked out.
 
 ### Student Feedback
 Your opinions are very important to the TAs and faculty. In addition to the university required student evaluation form, at the end of the semester, we will be asking for your feedback at least once about during the semester. However, if you have suggestions or concerns about the course, don’t wait until you are asked. You can contact us any time! As a simple example, if my lectures are too fast, or too slow, or if I need to speak more loudly, let me know!
